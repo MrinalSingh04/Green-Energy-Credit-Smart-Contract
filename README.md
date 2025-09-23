@@ -7,7 +7,7 @@ The **Green Energy Credit (GEC)** contract is a blockchain-based system for crea
 It allows renewable energy producers or trusted authorities (called **attesters**) to mint on-chain tokens when users **prove renewable energy generation/consumption**. These tokens can then be purchased by companies to **offset their carbon footprint**.
 
 By putting this process on-chain, we get:
-  
+   
 - Transparency ✅  
 - Traceability ✅ 
 - No double-counting ✅
