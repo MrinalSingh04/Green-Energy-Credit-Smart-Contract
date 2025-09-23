@@ -11,7 +11,7 @@ By putting this process on-chain, we get:
 - Transparency ✅  
 - Traceability ✅ 
 - No double-counting ✅
-- Automated retirement of credits ✅
+- Automated retirement of credits ✅ 
 
 ---
 
