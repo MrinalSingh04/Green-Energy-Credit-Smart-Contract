@@ -13,7 +13,7 @@ By putting this process on-chain, we get:
 - No double-counting ✅
 - Automated retirement of credits ✅ 
 
----
+--- 
 
 ## What this contract does
 
