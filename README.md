@@ -9,7 +9,7 @@ It allows renewable energy producers or trusted authorities (called **attesters*
 By putting this process on-chain, we get:
   
 - Transparency ✅ 
-- Traceability ✅
+- Traceability ✅ 
 - No double-counting ✅
 - Automated retirement of credits ✅
 
